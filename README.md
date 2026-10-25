@@ -2,13 +2,13 @@
 Learning everything on my own at home
 
 ## Current Projects:
-1. Memory Tiles
-2. YOUni
-3. Personal site
+1. Memory Tiles (40%)
+2. YOUni (planning stage)
+3. Personal site 
 
 ## Stuff I want to learn:
-1. Swift
-2. React Native
+1. Swift (current)
+2. React Native (current)
 3. Javascript
 4. Python
 
