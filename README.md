@@ -1,16 +1,14 @@
-## Hi there 👋
+## About Me:
 
-<!--
-**fr1zs/fr1zs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Current Projects:
+1. Memory Tiles
+2. YOUni
+3. Personal site
 
-Here are some ideas to get you started:
+# Stuff I want to learn:
+1. Swift
+2. React Native
+3. Javascript
+4. Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+( idk im just trying stuff )
