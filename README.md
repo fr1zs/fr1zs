@@ -4,7 +4,8 @@ Learning everything on my own at home
 ## Current Projects:
 1. Memory Tiles (40%)
 2. YOUni (planning stage)
-3. Personal site 
+3. Personal site
+4. Swans?
 
 ## Stuff I want to learn:
 1. Swift (current)
