@@ -1,5 +1,5 @@
 # About Me:
-Learning everything on my own at home
+Learning everything on my own
 
 ## Current Projects:
 1. M***** T**** (40%)
