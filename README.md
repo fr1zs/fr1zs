@@ -2,7 +2,7 @@
 Learning everything on my own
 
 ## Current Projects:
-1. M***** T**** (40%)
+1. Memory Tiles (40%)
 2. Y**** (planning stage)
 3. S****
 4. Personal site
